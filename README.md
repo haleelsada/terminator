@@ -74,15 +74,6 @@ To run the programs, two ways:
    ```
 ## Examples
 
-### Spinning Donut
-In c
-
-![spinning donut](https://github.com/haleelsada/terminator/assets/75977159/e942e2dd-5f0a-4bc5-b003-8ab8d273dc08)
-
-In Python
-
-![donut_py](https://github.com/haleelsada/terminator/assets/75977159/8b5397ba-d8a9-41c6-bb23-eca634344575)
-
 ### Spinning Cube
 ![Spinning Cube](https://github.com/haleelsada/terminator/assets/75977159/6a254acb-1adb-4a35-8c22-a31f3842f40e)
 
