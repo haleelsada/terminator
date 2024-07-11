@@ -1,4 +1,4 @@
-![cube_hollow_](https://github.com/haleelsada/terminator/assets/75977159/f510da49-119f-45af-9d11-bfa6cb182391)![donut_c](https://github.com/haleelsada/terminator/assets/75977159/059bf1aa-5ac6-42df-999c-47ec3fb10cce)# terminator
+# terminator
 A group of cool 3D stimulation programs that can be run in terminal.
 
 ## Contents
@@ -73,6 +73,11 @@ To run the programs, two ways:
     python3 donut.py
    ```
 ## Examples
+### Spinning Donut
+In python
+![donut_py](https://github.com/haleelsada/terminator/assets/75977159/33f71238-b523-462d-9e93-46350c1dee92)
+In C
+![donut_c](https://github.com/haleelsada/terminator/assets/75977159/30a3d72b-949b-442d-ae8f-cff1b015343f)
 
 ### Spinning Cube
 ![Spinning Cube](https://github.com/haleelsada/terminator/assets/75977159/6a254acb-1adb-4a35-8c22-a31f3842f40e)
