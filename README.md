@@ -1,5 +1,5 @@
 # terminator
-A group of cool 3D stimulation programs that can be run in terminal.
+A group of cool 3D stimulation programs that can be run in terminal created by first stimulating 3d shapes in space and then projecting them on the terminal screen.
 
 ## Contents
 
@@ -17,8 +17,8 @@ most of them are just tweaking the original work.
 - Spinning Donut in C (By [Andy Sloane](https://www.a1k0n.net/2011/07/20/donut-math.html) )
 - Spinning Cube in C (By [Servet Gulnaroglu](https://www.youtube.com/watch?app=desktop&v=p09i_hoFdd0))
 - Spinning hollow cube in C
-- Spinning Cube with light effect in C
 - Spinning cube illusion in C
+- Spinning cube with illumination
 - Spinning Tetrahedron in C
 - Static sphere in moving light
   
@@ -90,6 +90,12 @@ In C
 
 ### Spinning Cube Illusion
 ![cube_illusion_](https://github.com/haleelsada/terminator/assets/75977159/6214390e-ba7a-4e15-ab11-fff60c945658)
+
+### Spinning Cube with illumination
+Here unlike the cases before the cube's shade changes as it spin. In previous cases each side has predefined color, but here it is assumed that there is a light behind the viewer to the right, hence that face will look illuminated based on the angle it makes with the spinning faces.
+
+![cube_illumination](https://github.com/haleelsada/terminator/assets/75977159/6dc1634b-e30a-4d9c-aeb4-76531b46a9aa)
+
 
 ### Spinning Tetrahedron
 ![tetrahedron_](https://github.com/haleelsada/terminator/assets/75977159/ab78da21-61a2-40bb-bf7d-e074127a3ad8)
