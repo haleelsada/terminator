@@ -75,8 +75,11 @@ To run the programs, two ways:
 ## Examples
 ### Spinning Donut
 In python
+
 ![donut_py](https://github.com/haleelsada/terminator/assets/75977159/33f71238-b523-462d-9e93-46350c1dee92)
+
 In C
+
 ![donut_c](https://github.com/haleelsada/terminator/assets/75977159/30a3d72b-949b-442d-ae8f-cff1b015343f)
 
 ### Spinning Cube
